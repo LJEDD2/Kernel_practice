@@ -1,2 +1,2 @@
-# Notebook
-kaggle dacon 필사
+# 🐸캐굴캐굴🐸
+kaggle Notebook 필사 스터디
