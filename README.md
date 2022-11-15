@@ -27,8 +27,8 @@
 | 정규 과정 | 스터디 계획 | 참여 여부 |
 | :--- | :--- | :---: |
 | 스터디 OT | 인싸타임 자기주도학습시간(16:00~16:15) | V |
-| 1주차 CLF (11/07) | 캐글 분류과제 노트북 필사 | V |
-| 2주차 REG (11/15) | 캐글 회귀과제 노트북 필사 | V |
+| 1주차 CLF (11/07) | [캐글 분류과제 노트북 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/WineQualityDataset/%5Bkaggul%5D_WineQuality%F0%9F%8D%B7ipynb.ipynb) | V |
+| 2주차 REG (11/15) | [캐글 회귀과제 노트북 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Auto-mpg%20dataset/%5BKaggul%5D%20Fuel%20Consumption%20EDA%20%26%20Prediction%20(Pycaret).ipynb) | V |
 | 3주차 DNN (11/22) | DNN(Deep 뉴럴 네트워크) : MNIST 숫자 & 패션 데이터 이미지분류 노트북 필사  |  |
 | 4주차 CNN (11/29) |  |  |
 | 5주차 RNN (12/06) |  |  |
