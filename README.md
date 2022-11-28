@@ -29,7 +29,7 @@
 | 스터디 OT | 인싸타임 자기주도학습시간(16:00~16:15) | V |
 | 1주차 CLF (11/07) | [캐글 분류과제 노트북 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/WineQualityDataset/%5Bkaggul%5D_WineQuality%F0%9F%8D%B7ipynb.ipynb) (WineQuality🍷) | V |
 | 2주차 REG (11/15) | [캐글 회귀과제 노트북 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Auto-mpg%20dataset/%5BKaggul%5D%20Fuel%20Consumption%20EDA%20%26%20Prediction%20(Pycaret).ipynb) (Fuel Consumption EDA & Prediction)| V |
-| 3주차 DNN (11/22) | DNN(Deep 뉴럴 네트워크) : [MNIST 숫자](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/MNIST/Tensorflow%20for%20Beginner%20(MNIST%20%EC%86%90%EA%B8%80%EC%94%A8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B6%84%EB%A5%98).ipynb) & [패션 데이터 이미지분류 노트북 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/MNIST/Fashion%20MNIST%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%20.ipynb)  | V |
-| 4주차 CNN (11/29) |  |  |
+| 3주차 DNN (11/22) | DNN(Deep Neural Network) : [MNIST 숫자](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/MNIST/Tensorflow%20for%20Beginner%20(MNIST%20%EC%86%90%EA%B8%80%EC%94%A8%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%B6%84%EB%A5%98).ipynb) & [패션 데이터 이미지분류 노트북 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/MNIST/Fashion%20MNIST%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%20.ipynb)  | V |
+| 4주차 CNN (11/29) | 3주차 DNN(Deep Neural Network) 발표 |  |
 | 5주차 RNN (12/06) |  |  |
 | 6주차 추천시스템 (12/13) | |  |
