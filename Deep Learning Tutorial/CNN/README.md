@@ -1,4 +1,4 @@
-# Cifar 10 using LeNet5 and Keras
+# CIFAR 10 using LeNet5 and Keras
 
 This repository has 1 tasks performed with **LeNet5** on the **Cifar10** Dataset
 
