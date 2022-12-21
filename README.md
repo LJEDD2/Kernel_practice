@@ -33,4 +33,4 @@
 | 4주차 CNN (11/29) | 3주차 DNN(Deep Neural Network) 발표 | V |
 | 5주차 RNN (12/07) | 4주차 CNN 과제 수행 및 발표 : CIFAR10 Dataset Classification LeNet-5 Model | V |
 | 6주차 추천시스템 (12/13) | 5주차 [RNN을 활용한 텍스트 분류 tensorflow](https://www.tensorflow.org/text/tutorials/text_classification_rnn) 튜토리얼 필사<br/>📝[IMDB 영화 리뷰 데이터 감정 분석](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/RNN/Text_classification_RNN_LSTM.ipynb) | V |
-| 7주차 넷플릭스 추천시스템과 코사인 유사도 (12/21) | 캐글 추천시스템을 위한 EDA<br/>[🔴Netflix Visualizations, Recommendation, EDA🍿](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Netflix_Recommendation/%F0%9F%94%B4Netflix%20Visualizations%2C%20Recommendation%2C%20EDA%F0%9F%8D%BF.ipynb) | V |
+| 7주차 코사인 유사도 (12/21) | 캐글 추천시스템을 위한 EDA<br/>[🔴Netflix Visualizations, Recommendation, EDA🍿](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Netflix_Recommendation/%F0%9F%94%B4Netflix%20Visualizations%2C%20Recommendation%2C%20EDA%F0%9F%8D%BF.ipynb) | V |
