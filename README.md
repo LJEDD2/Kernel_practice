@@ -23,7 +23,7 @@
 5. ⏰ 스터디 종료 30분 전 함께 회고록 작성
 6. 🚫 무단결석 2회시 퇴출
 
-### 학습 일정
+### 학습 일정 < 멋사 정규 과정 중>
 | 정규 과정 | 스터디 계획 | 참여 여부 |
 | :--- | :--- | :---: |
 | 스터디 OT | 인싸타임 자기주도학습시간(16:00~16:15) | V |
@@ -34,3 +34,16 @@
 | 5주차 RNN (12/07) | 4주차 CNN 과제 수행 및 발표<br/>: CIFAR10 Dataset Classification LeNet-5 Model | V |
 | 6주차 추천시스템 (12/13) | 5주차 [RNN을 활용한 텍스트 분류 tensorflow](https://www.tensorflow.org/text/tutorials/text_classification_rnn) 튜토리얼 필사<br/>📝[IMDB 영화 리뷰 데이터 감정 분석](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/RNN/Text_classification_RNN_LSTM.ipynb) | V |
 | 7주차 코사인 유사도 (12/21) | 캐글 추천시스템을 위한 EDA<br/>[🔴Netflix Visualizations, Recommendation, EDA🍿](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Netflix_Recommendation/%F0%9F%94%B4Netflix%20Visualizations%2C%20Recommendation%2C%20EDA%F0%9F%8D%BF.ipynb) | V |
+
+# 수료 후 스터디 
+
+### 참여 인원 
+| 참여 인원 |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 박규호 | 이정은 | 구자현 | 박혜민 | 이승후 | 문영운 |
+
+### 학습 일정
+
+| 정규 과정 | 스터디 계획 | 참여 여부 |
+| :--- | :--- | :---: |
+| 스터디 OT | 미정 |  |
