@@ -1,7 +1,11 @@
 # 🐸캐굴캐굴🐸
+
+### 1회차
+### 2회차 
+
 ---
 # [AIS 7] kaggul_kaggul 
-멋쟁이 사자처럼 AI School 7기
+멋쟁이 사자처럼 AI School 7기 과정에서 공식적으로 운영된
 캐글 노트북 필사 스터디 
 
 ### 스터디 개요
@@ -23,7 +27,8 @@
 5. ⏰ 스터디 종료 30분 전 함께 회고록 작성
 6. 🚫 무단결석 2회시 퇴출
 
-### 학습 일정 < 멋사 정규 과정 중>
+### 학습 일정 
+#### 멋사 정규 과정 복습 
 | 정규 과정 | 스터디 계획 | 참여 여부 |
 | :--- | :--- | :---: |
 | 스터디 OT | 인싸타임 자기주도학습시간(16:00~16:15) | V |
@@ -34,13 +39,18 @@
 | 5주차 RNN (12/07) | 4주차 CNN 과제 수행 및 발표<br/>: CIFAR10 Dataset Classification LeNet-5 Model | V |
 | 6주차 추천시스템 (12/13) | 5주차 [RNN을 활용한 텍스트 분류 tensorflow](https://www.tensorflow.org/text/tutorials/text_classification_rnn) 튜토리얼 필사<br/>📝[IMDB 영화 리뷰 데이터 감정 분석](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Deep%20Learning%20Tutorial/RNN/Text_classification_RNN_LSTM.ipynb) | V |
 | 7주차 코사인 유사도 (12/21) | 캐글 추천시스템을 위한 EDA<br/>[🔴Netflix Visualizations, Recommendation, EDA🍿](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Netflix_Recommendation/%F0%9F%94%B4Netflix%20Visualizations%2C%20Recommendation%2C%20EDA%F0%9F%8D%BF.ipynb) | V |
+---
 
-# 수료 후 스터디 
+# kaggul_kaggul Season 2🐸🐸
+---
+# 
+멋쟁이 사자처럼 AI School 수료 후 스터디 운영 
 
-### 참여 인원 
-| 참여 인원 |
-| :--- | :--- | :---: | :---: | :---: | :---: |
+### 참여 인원  
+| 리드 | 구성원 |  |  |  |  |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 박규호 | 이정은 | 구자현 | 박혜민 | 이승후 | 문영운 |
+
 
 ### 학습 일정
 
