@@ -130,3 +130,7 @@ dmypy.json
 
 # csv
 *.csv
+
+
+# file
+sample_book.xml
