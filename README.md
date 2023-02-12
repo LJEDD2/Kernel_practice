@@ -25,7 +25,11 @@
 
 ---
 ### 👊 정규 과정 이후 개별 스터디 운영 계획 
-- 스터디 목표 : 
+#### 🦁 참여 인원  
+| 6️⃣🦁 | 7️⃣🦁 | 7️⃣🦁 | 7️⃣🦁 | 7️⃣🦁 | 7️⃣🦁 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 박규호 | 이정은 | 구자현 | 박혜민 | 이승후 | 문영운 |
+#### 📌 스터디 목표  
 1. 캐글에 있는 코드를 필사하며 멋쟁이사자처럼 AIS에서 배웠던 내용을 복습한다. 
 2. 데이터 인사이트 탐색과 시각화를 위주로 자유롭게 학습한다.  
 3. 알게 된 내용은 꼼꼼히 기록한다. (깃허브 or 블로그 or 노션 어디든 OK !)
@@ -39,10 +43,6 @@
     - 필사하다가 이해가 되지 않는 부분은 발표시간을 통해 질의응답 및 토론으로 해결 
 - Notion : [캐굴캐굴 스터디공간](https://www.notion.so/f7113399dbff4ad49e9f31a8d009249b)에 매주 학습한 내용 개별적으로 정리🐸
 
-#### 참여 인원  
-| 구성원 |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 박규호 | 이정은 | 구자현 | 박혜민 | 이승후 | 문영운 |
 ---
 ### 📝 학습 일정 
 #### 멋사 정규 과정 복습 
@@ -64,3 +64,4 @@
 | 스터디 OT (23/01/28)| 그라운드 룰 및 학습 주제 , 스터디 운영 계획 수립  | V |
 | 1주차 EDA (02/04)| Kaggle goodbook-10k Dataset을 활용한 EDA<br/>[Books : Visualisation and recommendation](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/goodbooks-10k/Books_Visualisation_and_recommendation.ipynb) | V |
 | 2주차 NLP (02/12)| Kaggle Twitter sentiment Extaction <br/>[Twitter sentiment Extaction-Analysis, EDA and Model](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/Twitter%20sentiment%20Extaction/Twitter_sentiment_Extaction_Analysis%2CEDA_and_Model.ipynb) | V |
+| 3주차 REG (02/19 예정)| Kaggle House Prices Dataset을 활용한 회귀분석 복습|  |
