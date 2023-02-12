@@ -63,3 +63,4 @@
 | :--- | :--- | :---: |
 | 스터디 OT (23/01/28)| 그라운드 룰 및 학습 주제 , 스터디 운영 계획 수립  | V |
 | 1주차 EDA (02/04)| Kaggle goodbook-10k Dataset을 활용한 EDA<br/>[Books : Visualisation and recommendation](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/goodbooks-10k/Books_Visualisation_and_recommendation.ipynb) | V |
+| 2주차 NLP (02/12)| Kaggle Twitter sentiment Extaction <br/>[Twitter sentiment Extaction-Analysis, EDA and Model]() | V |
