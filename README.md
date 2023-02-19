@@ -64,4 +64,4 @@
 | 스터디 OT (23/01/28)| 그라운드 룰 및 학습 주제 , 스터디 운영 계획 수립  | V |
 | 1주차 EDA (02/04)| Kaggle goodbook-10k Dataset을 활용한 EDA<br/>[Books : Visualisation and recommendation](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/goodbooks-10k/Books_Visualisation_and_recommendation.ipynb) | V |
 | 2주차 NLP (02/12)| Kaggle Twitter sentiment Extaction <br/>[Twitter sentiment Extaction-Analysis, EDA and Model](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/Twitter%20sentiment%20Extaction/Twitter_sentiment_Extaction_Analysis%2CEDA_and_Model.ipynb) | V |
-| 3주차 REG (02/19 예정)| Kaggle House Prices Dataset을 활용한 회귀분석 복습|  |
+| 3주차 REG (02/19 예정)| Kaggle House Prices Dataset - House Prices: Advanced Regression Techniques (ML Reg)<br/>+) 멋쟁이 사자처럼 AIS7 실습파일 0701~0702 복습<br/>[#1 House Prices Solution [top 1%] 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/House%20Prices%20Advanced%20Regression%20Techniques/%231%20House%20Prices%20Solution%20%5Btop%201%25%5D_%ED%95%99%EC%8A%B5%ED%95%9C_%EB%82%B4%EC%9A%A9.ipynb)| V |
