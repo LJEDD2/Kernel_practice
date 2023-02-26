@@ -33,7 +33,7 @@
 1. 캐글에 있는 코드를 필사하며 멋쟁이사자처럼 AIS에서 배웠던 내용을 복습한다. 
 2. 데이터 인사이트 탐색과 시각화를 위주로 자유롭게 학습한다.  
 3. 알게 된 내용은 꼼꼼히 기록한다. (깃허브 or 블로그 or 노션 어디든 OK !)
-- 일정 : **매주 일요일 밤 10시 00분 ~ 11시 00(+@)분**
+- 일정 : **매주 월요일 밤 10시 00분 ~ 11시 00(+@)분**
 - 장소 : Discord
 - 진행 방법
     - 실습(내가 고른 데이터 및 주제 or 정해진 주제)
@@ -66,3 +66,4 @@
 | 2주차 NLP (02/12)| Kaggle Twitter sentiment Extaction <br/>[Twitter sentiment Extaction-Analysis, EDA and Model](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/Twitter%20sentiment%20Extaction/Twitter_sentiment_Extaction_Analysis%2CEDA_and_Model.ipynb) | V |
 | 3주차 REG (02/19)| Kaggle House Prices Dataset - House Prices: Advanced Regression Techniques (ML Reg)<br/>+) 멋쟁이 사자처럼 AIS7 실습파일 0701~0702 복습<br/>[#1 House Prices Solution [top 1%] 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/House%20Prices%20Advanced%20Regression%20Techniques/%231%20House%20Prices%20Solution%20%5Btop%201%25%5D_%ED%95%99%EC%8A%B5%ED%95%9C_%EB%82%B4%EC%9A%A9.ipynb)| V |
 | 4주차 CRM (02/26)| Kaggle E-Commerce Data - [CRM Analytics 🛍️🛒](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/E-Commerce%20Data/CRM_Analytics_%F0%9F%9B%8D%EF%B8%8F%F0%9F%9B%92.ipynb)필사<br/>+) 멋쟁이 사자처럼 AIS7 실습파일 1201~1202 복습| V |
+| 5주차 REG (03/06)| |  |
