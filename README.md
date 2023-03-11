@@ -67,5 +67,5 @@
 | 3주차 REG (02/19)| Kaggle House Prices Dataset - House Prices: Advanced Regression Techniques (ML Reg)<br/>+) 멋쟁이 사자처럼 AIS7 실습파일 0701~0702 복습<br/>[#1 House Prices Solution [top 1%] 필사](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/House%20Prices%20Advanced%20Regression%20Techniques/%231%20House%20Prices%20Solution%20%5Btop%201%25%5D_%ED%95%99%EC%8A%B5%ED%95%9C_%EB%82%B4%EC%9A%A9.ipynb)| V |
 | 4주차 CRM (02/26)| Kaggle E-Commerce Data - [CRM Analytics 🛍️🛒](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/E-Commerce%20Data/CRM_Analytics_%F0%9F%9B%8D%EF%B8%8F%F0%9F%9B%92.ipynb)필사<br/>+) 멋쟁이 사자처럼 AIS7 실습파일 1201~1202 복습| V |
 | 5주차 REG (03/06)| Kaggle Melbourne_Housing_Market🏠 (ML Reg)<br/>[Gradient Boosting Regressor R^2 = 0.85 (CoLab)](https://colab.research.google.com/drive/10ePsWgPGmaOz0iORjI2xWm5Pz85RQIzo?usp=sharing) | V |
-| 6주차 CLF (03/13)| Kaggle |  |  |
+| 6주차 CLF (03/13)| Kaggle Airbnb New User Bookings |  |
 
