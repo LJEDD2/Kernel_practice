@@ -68,4 +68,5 @@
 | 4주차 CRM (02/26)| Kaggle E-Commerce Data - [CRM Analytics 🛍️🛒](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/Study/E-Commerce%20Data/CRM_Analytics_%F0%9F%9B%8D%EF%B8%8F%F0%9F%9B%92.ipynb)필사<br/>+) 멋쟁이 사자처럼 AIS7 실습파일 1201~1202 복습| V |
 | 5주차 REG (03/06)| Kaggle Melbourne_Housing_Market🏠 (ML Reg)<br/>[Gradient Boosting Regressor R^2 = 0.85 (CoLab)](https://colab.research.google.com/drive/10ePsWgPGmaOz0iORjI2xWm5Pz85RQIzo?usp=sharing) | V |
 | 6주차 CLF (03/13)| Kaggle Airbnb New User Bookings | V |
-
+| 7주차 EDA & ML CLF (03/20)| 혼자 해보는 머신러닝 프로젝트 | V |
+| 스터디 종료 | 5월 스터디 일정 논의 | 끄읏🤩 |
